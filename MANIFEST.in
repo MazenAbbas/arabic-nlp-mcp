@@ -1,0 +1,8 @@
+include CHANGELOG.md
+include CONTRIBUTING.md
+include RELEASE_CHECKLIST.md
+include SECURITY.md
+include requirements.txt
+recursive-include tests *.py
+recursive-include benchmarks *.py *.md
+recursive-include docs *.md
